@@ -1,4 +1,10 @@
-## 👋 Hi, I'm Greg Gibson, using data to improve business performance and customer service.
+## 👋 Hi, I'm Greg Gibson
+**Independent ML & Analytics Consultant**
+
+I design reliable data and machine learning systems that turn operational metrics into predictive insight.
+
+My background in performance reporting and automation informs how I approach machine learning: 
+structured pipelines, reproducible experimentation, and business-aligned evaluation.
 
 ### 🤩 What I do
 - 🔭 Discover data that can be used for insights
@@ -28,6 +34,27 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+## 🔬 Focus Areas
+- Imbalanced classification & precision-recall optimization
+- Feature engineering & interaction modeling
+- Reproducible ML pipelines
+- Business-aligned performance metrics
+- Model explainability & threshold selection
+
+## 🚀 Current Direction
+Building hybrid ML + analytics systems that bridge predictive modeling with executive decision-making.
+
+## 📌 Featured Project
+
+### CardioSentinel
+Heart attack risk modeling system with:
+- Feature engineering pipelines
+- Balanced logistic regression & boosted trees
+- MLflow experiment tracking
+- Threshold-based evaluation
+- Dockerized deployment
+
 
 
 
