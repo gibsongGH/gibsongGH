@@ -1,18 +1,13 @@
 ## 👋 Hi, I'm Greg Gibson
-**Independent ML & Analytics Consultant**
+Independent Machine Learning & Analytics Consultant building production-ready predictive systems and business-facing data solutions.
 
-I design reliable data and machine learning systems that turn operational metrics into predictive insight.
-
-My background in performance reporting and automation informs how I approach machine learning: 
-structured pipelines, reproducible experimentation, and business-aligned evaluation.
-
-### 🤩 What I do
-- 🔭 Discover data that can be used for insights
-- ⚙️ Automate manual reporting
-- 📊 Visualize and tell a compelling story
-- 📈 Drive process improvements and measure results
-- 🤝 Cross-functional teamwork
-- 🤖 Machine learning predictions
+I specialize in:
+- End-to-end ML pipelines
+- Model evaluation & threshold optimization
+- Experiment tracking & reproducibility
+- Business translation of predictive insight
+  
+Recent work includes structured ML experimentation with MLflow, threshold calibration for imbalanced classification, and containerized model workflows.
 
 ## 👨‍💻 Tech Stack
 
