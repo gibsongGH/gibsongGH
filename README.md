@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Greg Gibson
-Independent Machine Learning & Analytics Consultant building production-ready predictive systems and business-facing data solutions.
+Independent Machine Learning & Analytics Consultant designing structured, reproducible predictive systems from operational data.
 
 I specialize in:
 - End-to-end ML pipelines
