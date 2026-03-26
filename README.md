@@ -6,8 +6,9 @@ I specialize in:
 - Model evaluation & threshold optimization
 - Experiment tracking & reproducibility
 - Business translation of predictive insight
+- Retrieval Augmented Generation (RAG) chatbots
   
-Recent work includes structured ML experimentation with MLflow, threshold calibration for imbalanced classification, and containerized model workflows.
+Recent work includes structured ML experimentation with MLflow, threshold calibration for imbalanced classification, containerized model workflows, and LLM embeddings & vector databases.
 
 ## 👨‍💻 Tech Stack
 
