@@ -30,9 +30,9 @@ My work bridges the gap between **experimentation and usable tools** — turning
 
 ### 🤖 AI & Systems
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-<!-- #![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square) -->
 ![ChromaDB](https://img.shields.io/badge/VectorDB-5A67D8?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<!-- #![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square) -->
 
 ### 📊 Data & ML Foundations
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -93,6 +93,7 @@ Machine learning-based risk prediction system:
 - Containerized deployment  
 
 🔗 https://github.com/gibsongGH/cardiosentinel
+
 ---
 
 ## 💡 Background
